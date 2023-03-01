@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+#wrapper{
+    height:100vh;
+    overflow-y:auto;
+    overflow-x: hidden;
+}
+.navLogo{
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
